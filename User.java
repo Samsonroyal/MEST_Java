@@ -19,4 +19,13 @@ public class User {
 
     }
 
+    private static void presentName( String s){
+
+
+    }
+    
+    private static double addTwoNumber(double numOne, double numTwo){
+        return numOne + numTwo;
+    }
+
     }
